@@ -1,0 +1,26 @@
+Group Information:
+  Darwin’s Visualization
+  Members:
+    Zakkary Loveall
+    Vihan Garg
+    Austin Barner
+  Team Darwin, simulating the evolution of cubic creatures one generation at a time.
+  Project Summary:
+    Our goal is to simulate the process of natural selection by creating an environment (made by us) where creatures (made by us) can compete against each other and evolve over multiple generations in order to better survive in this environment. 
+    Our project aims to give people who use it a visual representation of how genetic AI algorithms are used in modern day systems. This will be achieved by creating an interactive UI for users to see how changing certain features in a genetic AI algorithm can affect the overall output(s).
+    We mostly plan on using Java to write our code in because it has great accessibility to external libraries for making the graphical part of our project easier. As well as GitHub to share code and Google Drive to keep track of documents (such as this one). We will also use external websites to do research on relevant articles and programs that have already been made.
+  Plan/Timeline:
+    Late September to Mid November - Planning Phase
+      Finalizing our Senior Design Idea
+      UML development
+      Deciding on coding language 
+      Preparation phase / environment creation
+    Mid November to Early March - Coding Phase
+      Getting started with using our environment 
+      Adapting the uml diagram into code
+      Making ML functions and classes for objects
+      Working on the visual UI
+    Early March to Mid April - Finalization Phase
+      Tidying up code
+      Making the presentation
+      Make the UI aesthetically pleasing
